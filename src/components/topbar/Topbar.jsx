@@ -1,8 +1,5 @@
 import "./topbar.css"
-import Search from '@mui/icons-material/Search';
-import Person from '@mui/icons-material/Person';
-import Chat from '@mui/icons-material/Chat';
-import Notifications from '@mui/icons-material/Notifications';
+import {Search, Person, Chat, Notifications} from '@mui/icons-material';
 export default function Topbar() {
   return (
     <div className="topbar-container">
